@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fbac543-427b-4335-9265-82d9fed7a3b2" name="Default Changelist" comment="" />
+    <list default="true" id="3fbac543-427b-4335-9265-82d9fed7a3b2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skrypt_zadania.py" beforeDir="false" afterPath="$PROJECT_DIR$/skrypt_zadania.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +17,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="1fc90643-c1fb-4120-bad2-a00226b88f82" />
   <component name="ProjectId" id="1hPJFQ8i1ASPOfGMVi7x4Edes2W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,7 +38,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Python.classification">
+  <component name="RunManager" selected="Python.skrypt_zadania">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="neuralNetwork" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,6 +65,9 @@
       <module name="neuralNetwork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -95,8 +105,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="skrypt_zadania" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="neuralNetwork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/skrypt_zadania.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.skrypt_zadania" />
         <item itemvalue="Python.classification" />
       </list>
     </recent_temporary>
@@ -110,6 +140,8 @@
       <option name="presentableId" value="Default" />
       <updated>1599906689939</updated>
       <workItem from="1599906701746" duration="2299000" />
+      <workItem from="1599909006975" duration="3279000" />
+      <workItem from="1599926909009" duration="4259000" />
     </task>
     <servers />
   </component>
@@ -121,6 +153,14 @@
       <screen x="0" y="26" width="1366" height="742" />
     </state>
     <state x="312" y="78" width="736" height="630" key="#Inspections/0.26.1366.742@0.26.1366.742" timestamp="1599908467990" />
+    <state x="543" y="297" key="Github.ShareDialog" timestamp="1599911659448">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="543" y="297" key="Github.ShareDialog/0.26.1366.742@0.26.1366.742" timestamp="1599911659448" />
+    <state x="462" y="88" width="435" height="611" key="Github.UntrackedFilesDialog" timestamp="1599911677347">
+      <screen x="0" y="26" width="1366" height="742" />
+    </state>
+    <state x="462" y="88" width="435" height="611" key="Github.UntrackedFilesDialog/0.26.1366.742@0.26.1366.742" timestamp="1599911677347" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
